@@ -1,6 +1,6 @@
 # 🏗️ Agentic-AI-Pricing-NovaBuild
 
-![NovaBuild AI Architecture](https://via.placeholder.com/1200x600?text=NovaBuild+Multi-Agent+AI)
+![NovaBuild AI Architecture](https://islah88.github.io/images/novabuild.png)
 
 ## 📌 À Propos du Projet
 **NovaBuild AI** est un système intelligent "Enterprise-Ready" démontrant des compétences avancées en **Orchestration Multi-Agents** et en **raisonnement complexe d'IA** (Agentic AI). Ce projet s'adresse aux défis complexes de l'industrie (comme le BTP ou la construction), où la précision des données et la conformité sont critiques.
