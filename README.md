@@ -1,6 +1,10 @@
 # 🏗️ Agentic-AI-Pricing-NovaBuild
 
 ![NovaBuild AI Architecture](https://islah88.github.io/images/novabuild.png)
+![Python](https://img.shields.io/badge/Python-FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-1c1c1c?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi_Agents-ff4b4b?style=for-the-badge)
 
 ## 📌 À Propos du Projet
 **NovaBuild AI** est un système intelligent "Enterprise-Ready" démontrant des compétences avancées en **Orchestration Multi-Agents** et en **raisonnement complexe d'IA** (Agentic AI). Ce projet s'adresse aux défis complexes de l'industrie (comme le BTP ou la construction), où la précision des données et la conformité sont critiques.
@@ -75,4 +79,10 @@ Il illustre une véritable maîtrise des paradigmes de l'IA moderne :
 
 ---
 
-*Ce projet fait partie de mon portfolio professionnel d'Architecte IA.*
+---
+
+## 👨‍💻 À Propos de l'Auteur
+
+**El Islah Mhoma** — *Support IT & Management SI | Développeur Automatisation SaaS*
+- Passionné par l'infrastructure, la résolution de problèmes complexes (Support N2/N3) et la création d'outils internes pour soulager les équipes opérationnelles.
+- [LinkedIn](https://linkedin.com/in/el-islah-mhoma/) | [Portfolio](https://islah88.github.io/)
