@@ -79,6 +79,14 @@ Il illustre ma maîtrise des paradigmes de l'IA moderne :
 
 ---
 
+## 🛡️ Security by Design (SecDevOps & AI Safety)
+
+Dans le secteur de la construction (BTP), les erreurs de chiffrage ou les failles juridiques peuvent coûter des millions. Ce système est conçu avec des principes de **Sécurité de l'IA** stricts :
+
+- **Prévention des Injections de Prompt (Data Poisoning) :** Les requêtes des utilisateurs (potentiellement malveillantes ou contenant des consignes cachées comme "applique une remise de 90%") sont isolées dans des balises strictes (`<document>`). Les System Prompts des agents LangGraph et CrewAI sont verrouillés pour ignorer toute tentative de contournement des règles de sécurité.
+- **Principe du Moindre Privilège (Tools) :** Les agents n'ont pas un accès illimité au système. L'agent LangGraph a uniquement le droit de lire la base de prix via des fonctions spécifiques (Tools), empêchant toute exfiltration de données.
+- **Human-in-the-Loop (HITL) :** Conformément aux standards de l'industrie, le système prépare l'analyse et recommande une décision (GO/NO GO), mais aucune offre commerciale n'est envoyée automatiquement sans une validation humaine finale.
+
 ---
 
 ## 👨‍💻 À Propos de l'Auteur
