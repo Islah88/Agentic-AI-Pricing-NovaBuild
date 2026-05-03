@@ -89,8 +89,14 @@ Dans le secteur de la construction (BTP), les erreurs de chiffrage ou les faille
 
 ---
 
-## 👨‍💻 À Propos de l'Auteur
+## 👤 Auteur
 
-**El Islah Mhoma** — *Support IT & Management SI | Développeur Automatisation SaaS*
-- Passionné par l'infrastructure, la résolution de problèmes (Support N2/N3) et la création d'outils internes pour soulager les équipes opérationnelles.
-- [LinkedIn](https://linkedin.com/in/el-islah-mhoma/) | [Portfolio](https://islah88.github.io/)
+**Mhoma EL ISLAH** — *Développeur SaaS IA & Expert SecDevOps*
+- 🎓 Bachelor Cybersécurité — ESAIP / Le Havre
+- 🎓 Master 2 MIASHS
+- 💡 Passionné par la création de plateformes intelligentes (Agentic IA) et la sécurisation des infrastructures cloud.
+- 🔗 [Portfolio](https://islah88.github.io) | [LinkedIn](https://linkedin.com/in/el-islah-mhoma/) | [GitHub](https://github.com/Islah88)
+
+## 📄 Licence
+
+Ce projet est sous licence MIT — voir le fichier [LICENSE](LICENSE) pour plus de détails.
