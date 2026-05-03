@@ -13,6 +13,13 @@ L'objectif principal de ce projet est de montrer comment une IA peut **éviter l
 
 ---
 
+## 🎬 Démo
+
+![NovaBuild Démo](https://raw.githubusercontent.com/Islah88/Islah88.github.io/main/images/novabuild.gif)
+> 📸 *Démonstration de l'orchestration multi-agents et du débat entre les experts IA.*
+
+---
+
 ## 🧠 Architecture Technique (Multi-Agents)
 
 Le projet a évolué d'un simple script Streamlit à une véritable architecture découplée (Backend API + Frontend).
